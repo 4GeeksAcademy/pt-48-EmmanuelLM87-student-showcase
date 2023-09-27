@@ -1,0 +1,137 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Emmanuel
+    last_name: Lucena Montalvo
+    
+    # Define yourself in 4-5 words
+    motto: Siempre busco una versión mejorada de mí mismo.
+    
+    # focus
+    focus: Estoy estudiando para ser Desarrollador de Software
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: |
+      Trabajo en el sector de la seguridad privada desde hace 12 años y actualmente estoy estudiando para ser 
+      Desarrollador de Software, me considero una persona amable, justa, comprensible y llena de ambiciones, 
+      siempre busco mejorar mis espectativas personales, profesionales y laborales, además de las económicas, 
+      siempre procuro dar lo mejor de mí y cuando caigo, me levanto me sacudo el polvo y sigo adelante, 
+      soy una persona responsable con las ideas muy claras y peleo por conseguir las metas lógicamente alcanzables 
+      que me he propuesto en la vida y ser cada día mejor, no me gusta perder el tiempo y hacerlo perder a nadie. 
+           
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: 
+
+    # Contact Information
+    email: manu_bassman@hotmail.com #optional
+    phone: +34 651038604  #optional
+    website:  #optional
+    linkedin: https://www.linkedin.com/in/emmanuel-lucena-montalvo-21175b254/ #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: EmmanuelLM87
+    
+    twitter: #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: Español
+        level: Nativo
+
+    # Interests or hobies
+    interests:
+      - item: Videojuegos
+
+      - item: Coleccionismo, modelismo
+
+      - item: Películas de Terror y Ciencia Ficción
+
+# Your previous education
+education:
+    - degree: Graduado en ESO,               
+      university: IES Europa, 
+      time: 1999 - 2005            
+      details: |
+        Estudios en el Instituto de Enseñanza Secundaria Obligatoria.
+
+    - degree: Ilustrador tradicional y digital          
+      university: Escuela de Arte ARTENEO  
+      time: 2005 - 2006            
+      details: |            
+        Estudios en Escuela de Arte ARTENEO, aprendizaje de anatomía humana y animal,
+        fotografía e iñuminación, aplicación del color y materiales, aplicación de 
+        diferentes técnicas y uso de programas para ilustración y fotografía Adobe Photoshop.
+
+    - degree: Electromecánico de Vehiculos ligeros de 2 y 3 ruedas.          
+      university: Escuela INTEA  
+      time: 2009 - 2010            
+      details: |              
+        Formación de mecánica y electricidad de vehículos a motor de dos y tres ruedas 
+        (ciclomotores, motocicletas y trikes).
+
+    - degree: Vigilante de Seguridad          
+      university: Escuela de seguridad privada ON  
+      time: 2011 - 2012            
+      details: |         
+        Formación para la adquisición de la habilitación(TIP) para el desarrollo de las funciones de Vigilante
+        Seguridad.
+
+    - degree: Guía Canino Nivel Avanzado          
+      university: Escuela Security Dogs  
+      time: 2021 - 2022            
+      details: |    
+        Formación para la especialización y habilitación como Guía Canino en Seguridad Privada. 
+
+    - degree: Full Stack Developer        
+      university: 4Geeks Academy
+      time: 2023 - al presente            
+      details: |     
+        Desarrollo de Software y aplicaciones. Aprendizaje de diversos lenguajes de programación.
+        Realizando formación actualmente.
+
+# Your previous job experiences or voluntier
+experiences:
+
+# Your project portfolio
+projects:
+
+skills:
+    toolset:
+      - name: HTML5
+        level: 90%
+
+      - name: CSS3
+        level: 90%
+
+      - name: BOOTSTRAP
+        level: 90%
+
+      - name: JAVASCRIPT
+        level: 00%
+
+      - name: Node.JS
+        level: 00%
+
+      - name: PYTHON
+        level: 00%
+      
+      - name: REACT
+        level: 00%
+
+      - name: SQL
+        level: 00%
+
+      - name: Angular
+        level: 00%
